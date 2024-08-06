@@ -3,3 +3,4 @@ ubuntu:20.04
 python:3.11-bullseye
 ghcr.io/atuinsh/atuin
 postgres:14
+ruecat/ollama-telegram
